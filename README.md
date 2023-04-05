@@ -1,8 +1,8 @@
 # 📮Blog
-Este repositório é destinado à artigos da comunidade EZ.community, veja como você pode contribuir abaixo.
+Este repositório é destinado à artigos da comunidade Kodus.community, veja como você pode contribuir abaixo.
 
 ## 💙 Como funciona o Blog
-O nosso [dev.to](https://dev.to/ezcommunity) tem como principal conteúdo os artigos produzidos pela [comunidade da EZ.devs](https://talents.ezdevs.com/comunidade) e pessoas da [equipe ez.devs](https://www.linkedin.com/company/ez-devs).
+O nosso [dev.to](https://dev.to/kodus) tem como principal conteúdo os artigos produzidos pela [comunidade da Kodus](https://talents.kodus.io/plataforma/comunidade) e pessoas da [equipe kodus](https://www.linkedin.com/company/kodustech).
 
 ## 💙 Mandando seu artigo
 Sabendo qual o tema que pretende abordar, chegou a hora de apresentar a sua proposta. Para isto você deve preencher os dados do template [aqui!](https://github.com/ezDevs/blog-community/issues/new/choose). É importante ler corretamente e preencher as informações conforme esperado.
@@ -36,4 +36,4 @@ Após o tema ter sido aceito, você pode começar a escrever seu artigo, ele tem
 Utilize imagens com boa qualidade, e não se esqueça de linkar as imagens corretamente no formato markdown.
 
 ### 💙 Publicação
-Após estar tudo correto, postaremos seu artigo no nosso dev.to e deixaremos os devidos créditos a você, além de divulgar nos canais da EZ (por isso é super importante colocar pelo menos o link do seu linkedin no artigo!).
+Após estar tudo correto, postaremos seu artigo no nosso dev.to e deixaremos os devidos créditos a você, além de divulgar nos canais da Kodus (por isso é super importante colocar pelo menos o link do seu linkedin no artigo!).
